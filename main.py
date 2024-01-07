@@ -16,6 +16,28 @@ else:
 
 current_card = random.choice(to_learn)
 
+
+def is_known():
+    to_learn.remove(current_card)
+    data = pandas.DataFrame(to_learn)
+    data.to_csv("data/words_to_learn.csv", index=False)
+    next_card()
+# ---------------------------- CARD MECHANISM ------------------------------- #
+
+
+def next_card():
+    global current_card
+    current_card = random.choice(to_learn)
+    canvas.itemconfig(card, image=front_card_img)
+    canvas.itemconfig(card_title, text="French", fill="white")
+    canvas.itemconfig(card_word, text=current_card["French"], fill="white")
+
+
+def flip_card():
+    canvas.itemconfig(card, image=back_card_img)
+    canvas.itemconfig(card_title, text="English", fill="black")
+    canvas.itemconfig(card_word, text=current_card["English"], fill="black")
+
 # ---------------------------- UI SETUP ------------------------------- #
 
 
