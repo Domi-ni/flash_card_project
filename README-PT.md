@@ -15,34 +15,35 @@
 </p>
 
 <p align="justify">Este projeto é uma versão simplificada de um aplicativo de flashcard para aprendizagem de vocabulário. Esta versão contém as 1000 (mil) palavras mais usadas em francês.
-  Este projeto utiliza como base o vocabulário de frequência, com foco no aprendizado de palavras mais utilizadas no dia a dia</p>
+  Este projeto utiliza como base o vocabulário de frequência, com foco no aprendizado de palavras mais utilizadas no dia a dia.</p>
 
 
 <h2 align="justify">:hammer: Funcionalidades do projeto </h2>
 
 <p align="justify">
-  When starting the app a card will appear with a word in French. The user can then click on the "Show card" button (the middle one): 
+  Ao iniciar o aplicativo aparecerá um cartão com uma palavra em francês. O usuário pode então clicar no botão “Mostrar cartão” (o botão do meio): 
   <br>
   <img loading="lazy" src="https://github.com/Domi-ni/flash_card_project/assets/112003358/539c8ba1-9db8-4fda-b99e-f48e51fb1ebb"/> 
   <br>
-  to turn the card over and check the English translation of the word.
+  para virar o cartão e verificar a tradução da palavra em inglês.
 </p>
 <br>
 <p align="justify">
-  After seeing the translation, the user can click on the red button, if the the user didn't got it right.
+  
+  Após ver a tradução, o usuário pode clicar no botão vermelho, caso o usuário não tenha acertado a tradução correta
   <br>
   <img loading="lazy" src="https://github.com/Domi-ni/flash_card_project/assets/112003358/cf98bc09-a781-4c8c-aeaf-e1423eff6702"/> 
   <br><br>
-  or the green button if did got it right:
+  ou o botão verde caso tenha acertado
   <br>
   <img loading="lazy" src="https://github.com/Domi-ni/flash_card_project/assets/112003358/ea5ef994-bbe6-4508-bec2-b7d720c9e948"/> 
   <br>
-  If the user clicks on the green button, the word will then be removed from the list of words to be learned, after all, the user has confirmed that they know that word, so it will not appear again over the next uses of the app
+ Se o usuario clicar no botão verde, a palavra será então retirada da lista de palavras a serem aprendidas, afinal o usuário confirmou que conhece aquela palavra, portanto ela não aparecerá novamente nas próximas utilizações do app
 </p>
 
 
 <p align="justify">
-  All data storage is done through csv files and the "pandas" module which is used to manipulate the data
+  Todo o armazenamento de dados é feito através de arquivos csv e do módulo "pandas" que é utilizado para manipular os dados
   <br>
 </p>
 
