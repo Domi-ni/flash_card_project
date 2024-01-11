@@ -33,7 +33,7 @@
   Após ver a tradução, o usuário pode clicar no botão vermelho, caso o usuário não tenha acertado a tradução correta
   <br>
   <img loading="lazy" src="https://github.com/Domi-ni/flash_card_project/assets/112003358/cf98bc09-a781-4c8c-aeaf-e1423eff6702"/> 
-  <br><br>
+  <br>
   ou o botão verde caso tenha acertado
   <br>
   <img loading="lazy" src="https://github.com/Domi-ni/flash_card_project/assets/112003358/ea5ef994-bbe6-4508-bec2-b7d720c9e948"/> 
