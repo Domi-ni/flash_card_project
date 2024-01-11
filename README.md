@@ -2,7 +2,7 @@
 
 [Read this page in English](https://github.com/Domi-ni/flash_card_project/tree/main#readme)
 <br>
-[Leia esta página em português](https://github.com/Domi-ni/flash_card_project/blob/main/README-pt.md)
+[Leia esta página em português](https://github.com/Domi-ni/flash_card_project/blob/main/README-PT.md)
 <br>
 
 <p align="justify">
