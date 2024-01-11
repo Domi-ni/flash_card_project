@@ -27,7 +27,7 @@
   <br>
   para virar o cartão e verificar a tradução da palavra em inglês.
 </p>
-<br>
+
 <p align="justify">
   
   Após ver a tradução, o usuário pode clicar no botão vermelho, caso o usuário não tenha acertado a tradução correta
