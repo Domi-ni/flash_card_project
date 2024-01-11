@@ -1,4 +1,4 @@
-<h1 align="justify"> MyPass - Password Manager </h1>
+<h1 align="justify"> Flashcard Project </h1>
 
 [Read this page in English](https://github.com/Domi-ni/flash_card_project/tree/main#readme)
 <br>
@@ -14,7 +14,7 @@
   <img loading="lazy" src="https://img.shields.io/badge/Status-Concluded-blue"/>
 </p>
 
-<p align="justify">This project is a simplified version of a flashcard application for learning vocabulary. This version contains the 100 most used words in French.
+<p align="justify">This project is a simplified version of a flashcard application for learning vocabulary. This version contains the 1000 most used words in French.
   This project uses frequency vocabulary as a basis, focusing on learning words used in everyday life</p>
 
 
